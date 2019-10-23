@@ -8,7 +8,7 @@
 
  ## Add json file
 
-Put desired json file add json file in readFile.js
+Put desired json file and add json file in readFile.js
 
 ## Runing project
  Run `node readFie.js` 
