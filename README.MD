@@ -1,6 +1,7 @@
  # JsonKeyFinder
- This project is to find a value from json file using terminal
- Modify finding text based on json file
+ This project is to find a value from json file using terminal.
+ 
+ Modify finding text based on key of json file
  
  ## Npm build
 
